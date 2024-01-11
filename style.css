@@ -45,6 +45,7 @@ body {
   border-radius: 22px;
   border: none;
   font-weight: bold;
+  cursor: pointer;
 }
 .btns .download span {
   color: skyblue;
@@ -58,6 +59,7 @@ body {
   border: none;
   margin-left: 2%;
   font-weight: bold;
+  cursor: pointer;
 }
 .ball {
   background-color: #a69696;
@@ -137,6 +139,7 @@ h2 {
   font-weight: bold;
   margin-left: 58%;
   margin-top: 24%;
+  cursor: pointer;
 }
 .footer-img {
   color: seagreen;
